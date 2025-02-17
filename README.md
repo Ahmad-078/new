@@ -1,3 +1,4 @@
 # new
 This is my first Git Repository
-author Ahmad Sufiyan
+<br>
+Author Ahmad Sufiyan
